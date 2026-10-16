@@ -1,27 +1,26 @@
-
 <div align="center">
 
-# Hi, I'm Kadir İmeci 👋
+# Merhaba, ben Kadir İmeci 👋
 
-### Banking Operations | Data Analytics | Business Analysis
+### Bankacılık Operasyonları | Veri Analitiği | İş Analizi
 
-Turning operational challenges into measurable improvements and data-driven insights.
+Operasyonel sorunları ölçülebilir iyileştirmelere ve veriye dayalı içgörülere dönüştürmek.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadirimeci)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ba%C4%9Flant%C4%B1_Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadirimeci)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Hakkımda
 
-I'm a banking professional with approximately four years of experience in operational reporting, KPI monitoring, data validation, process improvement, and user acceptance testing (UAT).
+Bankacılık sektöründe yaklaşık dört yıllık deneyime sahibim. Operasyonel raporlama, KPI takibi, veri doğrulama, süreç iyileştirme ve kullanıcı kabul testleri (UAT) alanlarında çalışmalar yürüttüm.
 
-I completed the **432-hour Data Analyst Program at Workintech**, strengthening my practical skills in SQL, Python, Power BI, and BigQuery.
+**Workintech'in 432 saatlik Veri Analisti Eğitim Programı'nı** tamamlayarak SQL, Python, Power BI ve BigQuery alanlarındaki uygulamalı yetkinliklerimi geliştirdim.
 
-My focus is on combining business process knowledge with analytical thinking to identify inefficiencies, improve workflows, and support better decisions.
+İş süreçlerine ilişkin deneyimimi analitik düşünmeyle birleştirerek verimsizlikleri belirlemeye, iş akışlarını iyileştirmeye ve daha doğru kararlar alınmasına katkı sağlamaya odaklanıyorum.
 
-## 🛠️ Technical Skills
+## 🛠️ Teknik Yetkinlikler
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -30,52 +29,52 @@ My focus is on combining business process knowledge with analytical thinking to 
 ![Excel](https://img.shields.io/badge/Excel_%26_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 
-**Additional Tools:** SPSS, Google Tag Manager, Zapier
+**Diğer araçlar:** SPSS, Google Tag Manager, Zapier
 
-## 📊 Business & Analytical Skills
+## 📊 İş Süreçleri ve Analitik Yetkinlikler
 
-- KPI Monitoring & Management Reporting
-- Business Process Analysis & Improvement
-- User Acceptance Testing (UAT)
-- Data Validation & Quality Control
-- Root Cause Analysis
-- Workflow Automation & Excel VBA
+- KPI Takibi ve Yönetim Raporlaması
+- İş Süreçleri Analizi ve İyileştirme
+- Kullanıcı Kabul Testleri (UAT)
+- Veri Doğrulama ve Kalite Kontrolü
+- Kök Neden Analizi
+- İş Akışı Otomasyonu ve Excel VBA
 
-## 🚀 Operational Improvements
+## 🚀 Operasyonel İyileştirme Çalışmaları
 
-| Initiative | Measurable Impact |
+| Çalışma | Ölçülebilir Etki |
 |---|---|
-| Reporting Workflow Automation | Reduced processing time from 6 hours to approximately 3 minutes |
-| Excel VBA Automation | Reduced a 6–7 hour task to approximately 15–20 minutes |
-| Email Automation | Automated preparation and sending of 900 individual emails in approximately 3 minutes |
+| Raporlama Sürecinin Otomasyonu | Yaklaşık 6 saatlik işlem süresinin 3 dakikaya indirilmesi |
+| Excel VBA Otomasyonu | Yaklaşık 6–7 saatlik bir işlemin 15–20 dakikaya indirilmesi |
+| E-posta Otomasyonu | 900 ayrı e-postanın hazırlanması ve gönderiminin yaklaşık 3 dakikada tamamlanması |
 
-*These achievements are based on professional operational improvement initiatives.*
+*Bu sonuçlar, profesyonel iş yaşamımda gerçekleştirdiğim operasyonel iyileştirme çalışmalarına dayanmaktadır.*
 
-## 📂 Portfolio Roadmap
+## 📂 Projelerim ve Portföy Yol Haritam
 
-### Insurance Claims & Expert Assignment Analytics
-**Status:** In development
+### [Veriqora Bank – Bankacılık Operasyonları ve Süreç Analitiği](https://github.com/kadirimeci/banking-operations-process-intelligence)
+**Durum:** 50.000 sentetik işlem ve beş kapasite senaryosunun analizleri ile sonuç raporları tamamlandı. Power BI görselleştirmeleri sıradaki aşama.
 
-Analyzing claims processing, expert workload distribution, and operational bottlenecks using synthetic insurance data.
+Tamamen sentetik bankacılık verileriyle işlem tamamlama oranları, SLA performansı, ekip kapasitesi ve varsayımsal işçilik maliyetlerinin karşılaştırmalı analizi.
 
-### Credit Risk & Portfolio Analysis
-**Status:** Planned
+### Sigorta Hasar ve Eksper Atama Analitiği
+**Durum:** Geliştirme aşamasında
 
-Exploring credit risk indicators, customer segmentation, and financial portfolio metrics.
+Sentetik sigorta verileriyle hasar süreçlerini, eksper iş yükü dağılımını ve operasyonel darboğazları incelemeyi hedefleyen çalışma.
 
-### Business Process & Operational Efficiency
-**Status:** Planned
+### Kredi Riski ve Portföy Analizi
+**Durum:** Planlanan çalışma
 
-Identifying process bottlenecks and opportunities for measurable operational improvement.
+Kredi riski göstergeleri, müşteri segmentasyonu ve finansal portföy ölçümleri üzerine analiz çalışması.
 
 ---
 
 <div align="center">
 
-### Let's Connect
+### İletişimde Kalalım
 
 [LinkedIn](https://www.linkedin.com/in/kadirimeci) · [GitHub](https://github.com/kadirimeci)
 
-*Building practical analytics projects, one problem at a time.*
+*Gerçek iş problemlerine odaklanan, uygulanabilir veri analizi projeleri geliştiriyorum.*
 
 </div>
