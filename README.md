@@ -18,7 +18,7 @@ Bankacılık sektöründe yaklaşık dört yıllık deneyime sahibim. Operasyone
 
 **Workintech'in 432 saatlik Veri Analisti Eğitim Programı'nı** tamamlayarak SQL, Python, Power BI ve BigQuery alanlarındaki uygulamalı yetkinliklerimi geliştirdim.
 
-İş süreçlerine ilişkin deneyimimi analitik düşünmeyle birleştirerek verimsizlikleri belirlemeye, iş akışlarını iyileştirmeye ve daha doğru kararlar alınmasına katkı sağlamaya odaklanıyorum.
+İş süreçlerine ilişkin deneyimimi analitik düşünmeyle birleştirerek verimsizlikleri belirlemeye, iş akışlarını iyileştirmeye ve daha doğru kararlar alınmasına katkı sağlamaya odaklanıyorum. Gerçek veri setleriyle sektörler arası analiz projeleri de geliştiriyorum.
 
 ## 🛠️ Teknik Yetkinlikler
 
@@ -50,22 +50,23 @@ Bankacılık sektöründe yaklaşık dört yıllık deneyime sahibim. Operasyone
 
 *Bu sonuçlar, profesyonel iş yaşamımda gerçekleştirdiğim operasyonel iyileştirme çalışmalarına dayanmaktadır.*
 
-## 📂 Projelerim ve Portföy Yol Haritam
+## 📂 Veri Analizi Projelerim
+
+### [Claude Kullanım Analizi – Türkiye ve Dünya (2026)](https://github.com/kadirimeci/claude-usage-analysis-turkey-vs-world)
+
+**Durum:** Veri analizi, Power BI raporu ve araştırma makalesi tamamlandı.
+
+Anthropic Economic Index verileriyle Türkiye ve dünya genelindeki Claude kullanım amaçlarının, mesleki görev kategorilerinin, otomasyon ve insan destekli kullanım biçimlerinin ve Nisan–Mayıs 2026 dönemindeki değişimlerin karşılaştırmalı analizi. Çalışma; Python betikleri, SQL sorguları, analiz çıktıları ve altı sayfalık Power BI raporunu içerir.
+
+**Teknolojiler:** Python · SQL · Google BigQuery · Power BI
 
 ### [Veriqora Bank – Bankacılık Operasyonları ve Süreç Analitiği](https://github.com/kadirimeci/banking-operations-process-intelligence)
-**Durum:** 50.000 sentetik işlem ve beş kapasite senaryosunun analizleri ile sonuç raporları tamamlandı. Power BI görselleştirmeleri sıradaki aşama.
 
-Tamamen sentetik bankacılık verileriyle işlem tamamlama oranları, SLA performansı, ekip kapasitesi ve varsayımsal işçilik maliyetlerinin karşılaştırmalı analizi.
+**Durum:** Sentetik veri analizi, kapasite senaryoları ve sonuç raporları tamamlandı.
 
-### Sigorta Hasar ve Eksper Atama Analitiği
-**Durum:** Geliştirme aşamasında
+50.000 sentetik bankacılık işlemi üzerinden işlem tamamlama oranları, SLA performansı, ekip kapasitesi ve varsayımsal işçilik maliyetlerinin karşılaştırmalı analizi. Farklı kapasite senaryolarının operasyonel sonuçlara etkisi incelendi.
 
-Sentetik sigorta verileriyle hasar süreçlerini, eksper iş yükü dağılımını ve operasyonel darboğazları incelemeyi hedefleyen çalışma.
-
-### Kredi Riski ve Portföy Analizi
-**Durum:** Planlanan çalışma
-
-Kredi riski göstergeleri, müşteri segmentasyonu ve finansal portföy ölçümleri üzerine analiz çalışması.
+**Teknolojiler:** Python · SQL · Google BigQuery
 
 ---
 
